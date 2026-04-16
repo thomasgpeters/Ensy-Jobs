@@ -28,7 +28,7 @@ Replace the existing single-wide stepping stone walkway with a double-wide 15" b
 
 - Carefully remove all existing single-wide pavers along the full walkway length
 - Set aside any reusable blocks
-- Protect existing plantings and solar path lights during removal
+- Note: Elsy will remove all plantings lining both sides of the walkway prior to work
 
 ### 2. Base Preparation
 
@@ -64,7 +64,7 @@ The existing three makeshift steps handle the grade change in the middle of the 
 
 - Reinstall solar path lights along the walkway
 - Fill all joints and step edges with polymeric sand
-- Clean up disturbed mulch beds and restore plantings as needed
+- Clean up site debris
 - Final inspection for level, alignment, and stability
 
 ---
@@ -83,7 +83,7 @@ The existing three makeshift steps handle the grade change in the middle of the 
 
 ## Site Considerations
 
-- Existing plantings (hostas, phlox, ground cover) should be protected and restored after work
+- Elsy will remove all plantings lining both sides of the walkway before work begins
 - Solar path lights will be temporarily removed and reinstalled
 - The walkway curve should be preserved to match the existing landscape design
 - Step footing depth and material will depend on soil conditions at the slope

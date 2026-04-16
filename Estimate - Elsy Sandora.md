@@ -109,7 +109,8 @@
 - Rebuild the three existing steps using the same stacked-block concept but done properly
 - Add one additional (fourth) step above the existing three with a longer landing
 - Install footing beneath all four steps to keep them stable on the slope
-- Reinstall solar path lights and protect existing plantings during work
+- Reinstall solar path lights
+- Note: Elsy will remove all plantings lining both sides of the walkway prior to work
 
 **Materials:**
 - 15" stone/concrete blocks (quantity TBD based on walkway length — double the current count plus extra for steps and landing)
