@@ -86,7 +86,36 @@
 
 ## Sub-Job 5: Tudor Style Trim
 
-*(Details to be added)*
+**Scope:** Apply decorative Tudor-style trim to the white taller section of the house that wraps around to the front. Mock up a layout for Elsy's approval before final installation. Reference photos of real Tudor homes provided for style guidance.
+
+**Existing Conditions (from photos):**
+- Upper story has a plain white wall section (rises above the lower roofline)
+- Wraps around from the side to the front of the house
+- Currently no decorative trim — flat white surface
+- Reference photos show classic Tudor half-timber style: dark brown trim boards in diagonal, horizontal, and vertical patterns over white walls
+
+**Installation Plan:**
+- Mock up a Tudor trim layout on the white wall sections for Elsy to review and approve
+- Once layout is approved, measure and cut trim boards to match the design
+- Glue and nail trim boards to the wall surface
+- Seal all trim to protect against weather
+- Paint all trim brown to match Tudor style
+
+**Materials:**
+- Trim boards (dimensional lumber or composite — sized to mimic Tudor half-timber look)
+- Construction adhesive for gluing trim to wall
+- Nails/fasteners
+- Exterior wood sealer
+- Brown exterior paint
+- Caulk for sealing edges
+
+**Labor:**
+- Create mock-up layout on the wall for client approval
+- Measure, cut, and fit trim boards per approved design
+- Glue and nail trim to wall
+- Seal all trim
+- Paint trim brown
+- Clean up
 
 ---
 
