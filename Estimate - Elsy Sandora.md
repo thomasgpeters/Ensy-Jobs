@@ -111,7 +111,36 @@
 
 ## Sub-Job 4: Gutter with French Drain
 
-*(Details to be added)*
+**Scope:** Replace the gutter and downspout in one area of the house, fix the trim/fascia in that area, and connect the downspout to the existing french drain. Bury the french drain line better where it is currently exposed on the surface.
+
+**Existing Conditions (from photos):**
+- Gutter and downspout run along the lower roofline where the one-story section meets the taller upper story
+- Downspout comes down the white brick wall near the screened porch and back steps
+- French drain line (black corrugated tubing) runs along the ground near the raised garden beds — currently exposed on the surface
+- Trim/fascia in the gutter area needs repair
+
+**Installation Plan:**
+- Remove old gutter, downspout, and damaged trim/fascia in the affected area
+- Repair and replace trim/fascia
+- Install new gutter and downspout
+- Tap downspout into the existing french drain
+- Trench and bury the exposed french drain line for a cleaner, more effective installation
+
+**Materials:**
+- Gutter and downspout (sized to match area — purchased by Elsy)
+- Fascia/trim boards
+- French drain fittings/connectors to tap into existing line
+- Paint to match existing trim
+- Fasteners, hangers, end caps, sealant
+
+**Labor:**
+- Remove old gutter, downspout, and damaged trim
+- Repair/replace fascia and trim, paint to match
+- Install new gutter with hangers and downspout
+- Tap downspout into existing french drain
+- Trench and bury exposed french drain line
+- Test drainage flow
+- Clean up
 
 ---
 
