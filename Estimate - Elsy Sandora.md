@@ -39,7 +39,36 @@
 
 ## Sub-Job 2: Fence with Gate
 
-*(Details to be added)*
+**Scope:** Remove existing worn wood fence and gate. Replace with new posts and prefab vinyl-clad fence sections at approximately the same height, including a matching gate.
+
+**Existing Conditions (from photos):**
+- Current fence is white painted 2x4 construction — horizontal slat sections with a vertical picket gate
+- Paint is badly peeling, wood is deteriorating and very worn
+- Posts appear rotted at the base
+- Gate leads to backyard patio area with stepping stones through the opening
+
+**Installation Plan:**
+- Demo and remove existing fence, gate, and old posts
+- Set 6 new posts in concrete, leveled and plumb in a straight line
+- Install prefab vinyl-clad fence sections between posts
+- Assemble and install a matching vinyl-clad gate with hardware
+
+**Materials:**
+- 6 fence posts
+- Concrete for setting posts
+- Prefab vinyl-clad fence sections (sized to match existing fence height)
+- Matching vinyl-clad gate
+- Gate hardware (hinges, latch)
+- Fasteners/brackets for fence sections
+
+**Labor:**
+- Remove and dispose of existing fence, gate, and posts
+- Dig 6 post holes
+- Set posts in concrete, level and plumb in a line
+- Allow concrete to cure
+- Fit and install prefab vinyl-clad fence sections
+- Install matching gate with hardware
+- Clean up and haul away old fence materials
 
 ---
 
