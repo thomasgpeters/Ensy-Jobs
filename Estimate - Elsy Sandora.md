@@ -74,7 +74,38 @@
 
 ## Sub-Job 3: Front Door
 
-*(Details to be added)*
+**Scope:** Remove the existing front door and storm door, strip back to the rough opening, and hang a new fancy front door with sidelight. Colonial/Victorian style — Elsy has sample photos (not yet on file). Style similar to a colonial door with sidelight and transom.
+
+**Existing Conditions (from photos):**
+- Current door is a standard 6-panel door, painted dark red/maroon
+- Storm/screen door in front
+- One sidelight panel to the right of the door
+- Door frame and surrounding area showing wear
+- Covered front porch
+
+**Installation Plan:**
+- Remove existing front door, storm door, and trim
+- Strip back to the rough opening
+- Pick up new door unit in the F-350 (8-foot bed)
+- Set, level, and plumb the new door with sidelight in the rough opening
+- Shim, insulate, and secure the frame
+- Install interior and exterior trim
+- Install new hardware (lockset, hinges)
+
+**Materials:**
+- Front door with sidelight unit — colonial/Victorian style (purchased by Elsy)
+- Shims, insulation, fasteners
+- Interior and exterior trim
+- Hardware (lockset, hinges, etc.)
+- Caulk and sealant
+
+**Labor:**
+- Remove existing door, storm door, and trim
+- Prep rough opening
+- Pickup and transport of new door in F-350
+- Hang new door — level and plumb
+- Install trim, hardware, and weatherstripping
+- Clean up
 
 ---
 
@@ -160,5 +191,6 @@
 
 ## Notes
 
+- Elsy will purchase all materials — we pick up and transport in the F-350 (8-foot bed)
 - All pricing TBD pending full scope review of each sub-job
 - Photos on file for all 6 sub-jobs
