@@ -92,7 +92,39 @@
 
 ## Sub-Job 6: Walkway with Stone Blocks
 
-*(Details to be added)*
+**Scope:** Replace the existing single-wide stepping stone walkway with a double-wide 15" block walkway, blocks fitted tightly together, running all the way up to the front door. Rebuild the three existing makeshift steps and add a fourth step above them with a longer landing. Steps require footing for stability.
+
+**Existing Conditions (from photos):**
+- Long curving walkway from street/sidewalk up to front porch along a sloped yard
+- Currently single-wide ~15" square pavers laid single file with large gaps between them
+- Three makeshift steps in the middle section where the grade changes — stacked stone blocks
+- Solar path lights along the garden bed side
+- Hostas, phlox, and other established plantings lining both sides of walkway
+- Mulch bed on the garden side, lawn on the other
+
+**Installation Plan:**
+- Remove existing single-wide pavers along the full walkway length
+- Prepare and level the base for a double-wide (two 15" blocks side by side) walkway
+- Lay 15" blocks tightly together (minimal gaps) from bottom of walkway to front door
+- Rebuild the three existing steps using the same stacked-block concept but done properly
+- Add one additional (fourth) step above the existing three with a longer landing
+- Install footing beneath all four steps to keep them stable on the slope
+- Reinstall solar path lights and protect existing plantings during work
+
+**Materials:**
+- 15" stone/concrete blocks (quantity TBD based on walkway length — double the current count plus extra for steps and landing)
+- Gravel/crushed stone for base preparation
+- Concrete/footing material for step foundations
+- Polymeric sand or joint material for tight-fitting blocks
+
+**Labor:**
+- Remove existing single-wide pavers
+- Grade and prepare base for double-wide walkway
+- Lay double-wide blocks tightly together along full length
+- Excavate and pour footings for the step section
+- Build four steps (three rebuilt + one new) with longer landing on top step
+- Final leveling and joint filling
+- Restore path lights and clean up
 
 ---
 
