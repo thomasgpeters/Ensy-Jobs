@@ -337,7 +337,7 @@ def main():
 
     # Cover page
     story.append(Spacer(1, 2.5 * inch))
-    story.append(Paragraph("Elsy and Sam Sandora", styles["CoverTitle"]))
+    story.append(Paragraph("Elcy and Sam Sandora", styles["CoverTitle"]))
     story.append(Paragraph("Home Improvement Jobs", styles["CoverSubtitle"]))
     story.append(Spacer(1, 0.3 * inch))
     story.append(Paragraph("Review Draft — Not for Distribution", styles["CoverDraft"]))

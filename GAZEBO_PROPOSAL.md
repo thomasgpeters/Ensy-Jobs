@@ -1,6 +1,6 @@
 # Gazebo Installation Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---

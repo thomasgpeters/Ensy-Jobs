@@ -1,15 +1,15 @@
 # Tudor Style Trim Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---
 
 ## Project Overview
 
-Apply decorative Tudor-style trim to the white taller section of the house that wraps around to the front. The goal is to give the plain white upper walls a classic Tudor half-timber appearance using trim boards that are glued, nailed, sealed, and painted brown. A mock-up layout will be created first for Elsy's approval before permanent installation.
+Apply decorative Tudor-style trim to the white taller section of the house that wraps around to the front. The goal is to give the plain white upper walls a classic Tudor half-timber appearance using trim boards that are glued, nailed, sealed, and painted brown. A mock-up layout will be created first for Elcy's approval before permanent installation.
 
-Reference photos of real estate Tudor homes have been provided for style guidance only — the actual layout will be customized to fit Elsy's house.
+Reference photos of real estate Tudor homes have been provided for style guidance only — the actual layout will be customized to fit Elcy's house.
 
 ---
 
@@ -28,8 +28,8 @@ Reference photos of real estate Tudor homes have been provided for style guidanc
 
 - Study the reference Tudor home photos for style direction (diagonal braces, horizontal beams, vertical timbers)
 - Assess the white wall sections — measure dimensions on all sides that wrap to the front
-- Create a mock-up layout of the Tudor trim pattern directly on the wall for Elsy to see
-- Adjust the design based on Elsy's feedback until she approves the final layout
+- Create a mock-up layout of the Tudor trim pattern directly on the wall for Elcy to see
+- Adjust the design based on Elcy's feedback until she approves the final layout
 
 ### 2. Measure and Cut Trim
 
@@ -82,6 +82,6 @@ All materials purchased by client. Labor and transport only.
 ## Site Considerations
 
 - Ladder or scaffolding access needed for upper wall sections
-- Reference photos are for style guidance only — layout will be custom to Elsy's house
-- Mock-up must be approved by Elsy before any permanent installation
+- Reference photos are for style guidance only — layout will be custom to Elcy's house
+- Mock-up must be approved by Elcy before any permanent installation
 - Existing brown siding on adjacent sections can guide the shade of brown for the trim paint

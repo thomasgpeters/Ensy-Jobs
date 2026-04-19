@@ -1,6 +1,6 @@
 # Landscaping & Home Improvement Estimate
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 **Prepared by:** Ensy Jobs
 
@@ -19,7 +19,7 @@
 **Site Conditions (from photos):**
 - Existing 12x12 brick paver patio in fair condition (some moss/aging)
 - Gravel border area adjacent to patio with landscape edging
-- Gazebo kit materials on site (purchased by Elsy, boxes stacked against house wall)
+- Gazebo kit materials on site (purchased by Elcy, boxes stacked against house wall)
 - Ivy/ground cover encroaching from gravel side — may need trimming back for clearance
 
 **Materials:**
@@ -74,7 +74,7 @@
 
 ## Sub-Job 3: Front Door
 
-**Scope:** Remove the existing front door and storm door, strip back to the rough opening, and hang a new fancy front door with sidelight. Colonial/Victorian style — Elsy has sample photos (not yet on file). Style similar to a colonial door with sidelight and transom.
+**Scope:** Remove the existing front door and storm door, strip back to the rough opening, and hang a new fancy front door with sidelight. Colonial/Victorian style — Elcy has sample photos (not yet on file). Style similar to a colonial door with sidelight and transom.
 
 **Existing Conditions (from photos):**
 - Current door is a standard 6-panel door, painted dark red/maroon
@@ -93,7 +93,7 @@
 - Install new hardware (lockset, hinges)
 
 **Materials:**
-- Front door with sidelight unit — colonial/Victorian style (purchased by Elsy)
+- Front door with sidelight unit — colonial/Victorian style (purchased by Elcy)
 - Shims, insulation, fasteners
 - Interior and exterior trim
 - Hardware (lockset, hinges, etc.)
@@ -127,7 +127,7 @@
 - Trench and bury the exposed french drain line for a cleaner, more effective installation
 
 **Materials:**
-- Gutter and downspout (sized to match area — purchased by Elsy)
+- Gutter and downspout (sized to match area — purchased by Elcy)
 - Fascia/trim boards
 - French drain fittings/connectors to tap into existing line
 - Paint to match existing trim
@@ -146,7 +146,7 @@
 
 ## Sub-Job 5: Tudor Style Trim
 
-**Scope:** Apply decorative Tudor-style trim to the white taller section of the house that wraps around to the front. Mock up a layout for Elsy's approval before final installation. Reference photos of real Tudor homes provided for style guidance.
+**Scope:** Apply decorative Tudor-style trim to the white taller section of the house that wraps around to the front. Mock up a layout for Elcy's approval before final installation. Reference photos of real Tudor homes provided for style guidance.
 
 **Existing Conditions (from photos):**
 - Upper story has a plain white wall section (rises above the lower roofline)
@@ -155,7 +155,7 @@
 - Reference photos show classic Tudor half-timber style: dark brown trim boards in diagonal, horizontal, and vertical patterns over white walls
 
 **Installation Plan:**
-- Mock up a Tudor trim layout on the white wall sections for Elsy to review and approve
+- Mock up a Tudor trim layout on the white wall sections for Elcy to review and approve
 - Once layout is approved, measure and cut trim boards to match the design
 - Glue and nail trim boards to the wall surface
 - Seal all trim to protect against weather
@@ -199,7 +199,7 @@
 - Add one additional (fourth) step above the existing three with a longer landing
 - Install footing beneath all four steps to keep them stable on the slope
 - Reinstall solar path lights
-- Note: Elsy will remove all plantings lining both sides of the walkway prior to work
+- Note: Elcy will remove all plantings lining both sides of the walkway prior to work
 
 **Materials:**
 - 15" stone/concrete blocks (quantity TBD based on walkway length — double the current count plus extra for steps and landing)
@@ -229,8 +229,8 @@
 - TBD pending site photo review
 
 **Materials:**
-- Decking material for resurfacing (purchased by Elsy)
-- Railing system (purchased by Elsy)
+- Decking material for resurfacing (purchased by Elcy)
+- Railing system (purchased by Elcy)
 - Fasteners, hardware
 
 **Labor:**
@@ -287,7 +287,7 @@
 
 ## Notes
 
-- Elsy will purchase all materials — we pick up and transport in the F-350 (8-foot bed)
+- Elcy will purchase all materials — we pick up and transport in the F-350 (8-foot bed)
 - Crew: 2 (lead + 1 helper) — lead performs most of the work
 - Flat rate per job — labor only, no materials markup
 - Deck resurfacing + railings to be priced after site photos are taken
