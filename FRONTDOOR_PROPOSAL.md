@@ -75,7 +75,21 @@ Remove the existing front door and storm door, strip back to the rough opening, 
 | Caulk and sealant | Exterior weather seal |
 | Screws/fasteners | For securing frame and trim |
 
-All materials purchased by Elsy. Picked up and transported in the F-350.
+All materials purchased by Elsy.
+
+---
+
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 1 day |
+| Labor (flat rate) | $900 |
+| Pickup & Transport | $100 |
+| **Total** | **$1,000** |
+
+All materials purchased by client. Labor and transport only.
 
 ---
 

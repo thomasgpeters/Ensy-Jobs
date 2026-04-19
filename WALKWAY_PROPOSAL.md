@@ -81,6 +81,21 @@ The existing three makeshift steps handle the grade change in the middle of the 
 
 ---
 
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 2–3 days |
+| Labor (flat rate) | $1,900 |
+| Pickup & Transport | $150 |
+| **Total** | **$2,050** |
+
+All materials purchased by client. Labor and transport only.
+Walkway blocks may require multiple loads in the F-350.
+
+---
+
 ## Site Considerations
 
 - Elsy will remove all plantings lining both sides of the walkway before work begins

@@ -65,6 +65,20 @@ Reference photos of real estate Tudor homes have been provided for style guidanc
 
 ---
 
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 1–2 days |
+| Labor (flat rate) | $1,100 |
+| Pickup & Transport | $75 |
+| **Total** | **$1,175** |
+
+All materials purchased by client. Labor and transport only.
+
+---
+
 ## Site Considerations
 
 - Ladder or scaffolding access needed for upper wall sections
