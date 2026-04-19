@@ -218,8 +218,77 @@
 
 ---
 
+## Sub-Job 7: Deck Resurfacing with New Railings
+
+**Scope:** Resurface the existing deck and install new railings.
+
+**Existing Conditions:**
+- Photos not yet taken — to be added
+
+**Installation Plan:**
+- TBD pending site photo review
+
+**Materials:**
+- Decking material for resurfacing (purchased by Elsy)
+- Railing system (purchased by Elsy)
+- Fasteners, hardware
+
+**Labor:**
+- TBD pending site assessment
+
+---
+
+## Labor Estimate — Flat Rate Pricing
+
+**Crew:** 2 (lead + 1 helper)
+**Billing:** Labor only — client purchases all materials
+**Pickup/Transport:** Included as line items where applicable
+
+### Originally Quoted — $4,000
+
+| Sub-Job | Description | Labor Est. |
+|---------|-------------|------------|
+| 1. Gazebo | Post anchoring, kit assembly (1–2 days) | $1,200 |
+| 3. Front Door | Demo, prep rough opening, hang door w/ sidelight, trim (1 day) | $900 |
+| 6. Walkway | Excavation, base prep, double-wide block laying, 4 steps w/ footing (2–3 days) | $1,900 |
+| | **Originally Quoted Subtotal** | **$4,000** |
+
+### Add-On Jobs
+
+| Sub-Job | Description | Labor Est. |
+|---------|-------------|------------|
+| 2. Fence w/ Gate | Demo old fence, set 6 posts, install vinyl-clad sections + gate (1–2 days) | $1,400 |
+| 4. Gutter/Drain | Replace gutter/downspout, fix fascia, tap & bury french drain (1 day) | $700 |
+| 5. Tudor Trim | Mock-up, cut/fit/glue/nail/seal/paint decorative trim (1–2 days) | $1,100 |
+| 7. Deck | Resurface deck + new railings (TBD pending photos) | TBD |
+| | **Add-On Subtotal** | **$3,200 + Deck TBD** |
+
+### Pickup & Transport
+
+| Trip | Description | Fee |
+|------|-------------|-----|
+| Walkway blocks | 15" blocks — may require multiple loads in F-350 | $150 |
+| Front door | Door w/ sidelight unit pickup | $100 |
+| Fence materials | Posts, vinyl-clad sections, gate | $100 |
+| Gutter/trim/Tudor supplies | Combined trip if possible | $75 |
+| Deck materials | TBD | TBD |
+| | **Pickup Subtotal** | **$425 + Deck TBD** |
+
+### Project Total
+
+| | |
+|---|---|
+| Originally Quoted Jobs | $4,000 |
+| Add-On Jobs | $3,200 + Deck TBD |
+| Pickup & Transport | $425 + Deck TBD |
+| **Total Labor Estimate** | **$7,625 + Deck TBD** |
+
+---
+
 ## Notes
 
 - Elsy will purchase all materials — we pick up and transport in the F-350 (8-foot bed)
-- All pricing TBD pending full scope review of each sub-job
-- Photos on file for all 6 sub-jobs
+- Crew: 2 (lead + 1 helper) — lead performs most of the work
+- Flat rate per job — labor only, no materials markup
+- Deck resurfacing + railings to be priced after site photos are taken
+- Photos on file for 6 of 7 sub-jobs (deck photos pending)

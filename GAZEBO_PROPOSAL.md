@@ -55,6 +55,18 @@ Install a client-purchased 12x10 gazebo kit on the existing 12x12 brick paver pa
 
 ---
 
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 1–2 days |
+| Labor (flat rate) | $1,200 |
+
+All materials purchased by client. Labor only.
+
+---
+
 ## Site Conditions
 
 - Existing 12x12 brick paver patio in fair condition

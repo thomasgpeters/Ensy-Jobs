@@ -66,6 +66,20 @@ Remove the existing worn white-painted wood fence and gate. Replace with new pos
 
 ---
 
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 1–2 days |
+| Labor (flat rate) | $1,400 |
+| Pickup & Transport | $100 |
+| **Total** | **$1,500** |
+
+All materials purchased by client. Labor and transport only.
+
+---
+
 ## Site Conditions
 
 - Stepping stones run through the gate area and will be preserved

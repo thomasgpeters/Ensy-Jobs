@@ -74,6 +74,20 @@ All materials purchased by Elsy.
 
 ---
 
+## Labor Estimate
+
+| Item | |
+|------|------|
+| Crew | 2 (lead + 1 helper) |
+| Estimated Duration | 1 day |
+| Labor (flat rate) | $700 |
+| Pickup & Transport | $75 |
+| **Total** | **$775** |
+
+All materials purchased by client. Labor and transport only.
+
+---
+
 ## Site Considerations
 
 - Work area is near the screened porch and back steps — access from the backyard
