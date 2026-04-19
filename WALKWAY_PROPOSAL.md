@@ -1,6 +1,6 @@
 # Walkway with Stone Blocks Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---
@@ -28,7 +28,7 @@ Replace the existing single-wide stepping stone walkway with a double-wide 15" b
 
 - Carefully remove all existing single-wide pavers along the full walkway length
 - Set aside any reusable blocks
-- Note: Elsy will remove all plantings lining both sides of the walkway prior to work
+- Note: Elcy will remove all plantings lining both sides of the walkway prior to work
 
 ### 2. Base Preparation
 
@@ -46,7 +46,7 @@ Replace the existing single-wide stepping stone walkway with a double-wide 15" b
 
 ### 4. Step Section — Rebuild and Expand
 
-The existing three makeshift steps handle the grade change in the middle of the walkway. Elsy wants to keep this stacked-block concept but done right, and add one more step.
+The existing three makeshift steps handle the grade change in the middle of the walkway. Elcy wants to keep this stacked-block concept but done right, and add one more step.
 
 **Footing:**
 - Excavate beneath the step section to install proper footing
@@ -98,7 +98,7 @@ Walkway blocks may require multiple loads in the F-350.
 
 ## Site Considerations
 
-- Elsy will remove all plantings lining both sides of the walkway before work begins
+- Elcy will remove all plantings lining both sides of the walkway before work begins
 - Solar path lights will be temporarily removed and reinstalled
 - The walkway curve should be preserved to match the existing landscape design
 - Step footing depth and material will depend on soil conditions at the slope

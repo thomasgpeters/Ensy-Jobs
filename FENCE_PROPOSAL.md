@@ -1,6 +1,6 @@
 # Fence with Gate Replacement Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---

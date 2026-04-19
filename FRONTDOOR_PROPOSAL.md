@@ -1,13 +1,13 @@
 # Front Door Replacement Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---
 
 ## Project Overview
 
-Remove the existing front door and storm door, strip back to the rough opening, and install a new fancy colonial/Victorian-style front door with sidelight. Elsy will purchase the door — we will pick it up and transport it in the F-350 (8-foot bed). Elsy has sample photos of doors she likes (not yet on file). The style will be similar to a colonial door with sidelight — decorative glass panels, traditional detailing.
+Remove the existing front door and storm door, strip back to the rough opening, and install a new fancy colonial/Victorian-style front door with sidelight. Elcy will purchase the door — we will pick it up and transport it in the F-350 (8-foot bed). Elcy has sample photos of doors she likes (not yet on file). The style will be similar to a colonial door with sidelight — decorative glass panels, traditional detailing.
 
 ---
 
@@ -66,7 +66,7 @@ Remove the existing front door and storm door, strip back to the rough opening, 
 
 | Item | Notes |
 |------|-------|
-| Front door with sidelight unit | Colonial/Victorian style — purchased by Elsy |
+| Front door with sidelight unit | Colonial/Victorian style — purchased by Elcy |
 | Shims | Cedar shims for leveling and plumbing |
 | Low-expansion foam insulation | Seal gaps around frame |
 | Interior and exterior trim/casing | To finish the opening |
@@ -75,7 +75,7 @@ Remove the existing front door and storm door, strip back to the rough opening, 
 | Caulk and sealant | Exterior weather seal |
 | Screws/fasteners | For securing frame and trim |
 
-All materials purchased by Elsy.
+All materials purchased by Elcy.
 
 ---
 
@@ -95,7 +95,7 @@ All materials purchased by client. Labor and transport only.
 
 ## Site Considerations
 
-- Elsy has sample photos of preferred door styles (not yet on file) — final door selection TBD
+- Elcy has sample photos of preferred door styles (not yet on file) — final door selection TBD
 - Style reference: colonial door with sidelight — decorative glass, traditional paneling
 - The rough opening may need to be widened to accommodate a door-with-sidelight unit if the current opening is sized for a single door only
 - The existing sidelight on the right side suggests the opening may already be sized for a door + sidelight configuration

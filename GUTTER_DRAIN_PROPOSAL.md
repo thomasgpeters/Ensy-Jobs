@@ -1,6 +1,6 @@
 # Gutter with French Drain Proposal
 
-**Client:** Elsy Sandora
+**Client:** Elcy Sandora
 **Date:** April 16, 2026
 
 ---
@@ -62,15 +62,15 @@ Replace the gutter and downspout in one area of the house, repair the trim/fasci
 
 | Item | Notes |
 |------|-------|
-| Gutter section | Sized to match the affected area — purchased by Elsy |
-| Downspout | With brackets — purchased by Elsy |
+| Gutter section | Sized to match the affected area — purchased by Elcy |
+| Downspout | With brackets — purchased by Elcy |
 | Gutter hangers, end caps, sealant | For mounting and sealing |
 | Fascia/trim board | Replacement for damaged section |
 | Primer and paint | To match existing trim color |
 | French drain fittings/connectors | To tap downspout into existing drain line |
 | Gravel (if needed) | For trench bedding around buried drain line |
 
-All materials purchased by Elsy.
+All materials purchased by Elcy.
 
 ---
 
